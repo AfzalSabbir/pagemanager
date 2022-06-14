@@ -1,7 +1,7 @@
 {
     "name": "afzalsabbir/pagemanager",
     "type": "library",
-    "description": "Create admin panels for presentation websites on Laravel, using page templates and AfzalSabbir\\CRUD.",
+    "description": "Create admin panels for presentation websites on Laravel, using page templates and Backpack\\CRUD.",
     "keywords": [
         "backpack",
         "crud",
