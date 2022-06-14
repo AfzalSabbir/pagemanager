@@ -8,7 +8,7 @@
 [![Total Downloads][ico-downloads]][link-downloads]
 
 
-An interface to let your admins add and edit presentation pages to your Laravel 6, 7, 8 or 9 website, by defining page templates with any number of content areas and any number of content types. Uses [Laravel Backpack](https://github.com/laravel-backpack).
+An interface to let your admins add and edit presentation pages to your Laravel 6, 7, 8 or 9 website, by defining page templates with any number of content areas and any number of content types. Uses [Laravel Backpack](https://github.com/afzalsabbir).
 
 ![Backpack PageManager edit page](https://user-images.githubusercontent.com/1032474/106446854-6dc73100-6489-11eb-9e4c-b21273cef23e.png "PageManager edit page")
 
@@ -221,7 +221,7 @@ If you are looking for a developer/team to help you build an admin panel on Lara
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/laravel-backpack/PageManager.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/backpack/pagemanager.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/backpack/pagemanager
+[link-packagist]: https://packagist.org/packages/afzalsabbir/pagemanager
 [link-travis]: https://travis-ci.org/laravel-backpack/PageManager
 [link-scrutinizer]: https://scrutinizer-ci.com/g/laravel-backpack/PageManager/code-structure
 [link-code-quality]: https://scrutinizer-ci.com/g/laravel-backpack/PageManager
