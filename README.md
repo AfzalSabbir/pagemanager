@@ -97,7 +97,7 @@ trait PageTemplates
 2) In your terminal
 
 ``` bash
-composer require afzalsabbir/pagemanager
+composer require backpack/pagemanager
 ```
 
 3) Publish the views, migrations and the PageTemplates trait:
